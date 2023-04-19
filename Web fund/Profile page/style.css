@@ -1,0 +1,89 @@
+*{
+    padding: 5px;
+    font-family: cursive;
+    margin: 0;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 18px;
+}
+
+#signOut{
+    width: 75px;
+    text-align: center;
+    font-size: 16px;
+    background-color: rgb(13, 155, 155);
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    position: absolute;
+    right: 10%;
+    top: 4%;
+}
+
+#profile{
+    font-size: 22px;
+    position: absolute;
+    left: 28%;
+    top: 4%;
+}
+
+.box1{
+    border: 5px solid rgb(185, 178, 178);
+    padding: 10px;
+}
+
+.box2{
+    border: 5px solid rgb(185, 178, 178);
+    padding: 10px;
+}
+
+.col1{
+    float: left;
+    margin-left: 27%;
+}
+
+.col2{
+    float: right;
+    margin-right: 27%;
+}
+
+#map-image{
+    width: 25px;
+    height: 40px;
+}
+
+#gear-image{
+    width: 25px;
+    height: 25px;
+}
+
+.profile-pic{
+    width: 35px;
+    height: 35px;
+
+}
+
+#main-pic{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+}
+
+#requests{
+    color: white;
+    background-color: rgb(38, 47, 47);
+    width: 100%;
+}
+
+#connections{
+    color: white;
+    background-color: rgb(38, 47, 47);
+    width: 100%
+}
