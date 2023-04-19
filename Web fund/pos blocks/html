@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Picture Boxes</title>
+    <link rel="stylesheet" type="text/css" href="Style.css">
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="box"></div>
+			<img class="picture" src="bewitchedtocat.jpg">
+			<img class="picture" src="catstello.png">
+			<img class="picture" src="godotocat.png">
+			<img class="picture" src="gracehoppertocat.jpg">
+			<div class="box"></div>
+		</div>
+		<div class="row">
+			<div class="box"></div>
+			<img class="picture" src="justicetocat.jpg">
+			<img class="picture" src="luchadortocat.png">
+			<img class="picture" src="saint_nictocat.jpg">
+			<img class="picture" src="privateinvestocat.jpg">
+			<div class="box"></div>
+		</div>
+		<div class="row">
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+		</div>
+	</div>
+</body>
+</html>
