@@ -1,0 +1,13 @@
+#counter {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #click-btn {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 30px;
+  }
