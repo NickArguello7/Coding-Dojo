@@ -1,7 +1,8 @@
-.container{
+.container {
     width: 950px;
     background-color: silver;
     margin: 0px auto;
+    height: 600px; 
 }
 .top-nav {
     height: 150px;
@@ -23,8 +24,7 @@
     background-color: red;
     position: relative;
     left: 230px;
-   bottom: 15px;
-    
+    top: -310px; 
 }
 .sub-content {
     height: 140px;
